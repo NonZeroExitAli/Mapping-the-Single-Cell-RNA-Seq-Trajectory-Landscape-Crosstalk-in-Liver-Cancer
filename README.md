@@ -112,8 +112,10 @@ plotTSNE(scenn, colour_by="label") +
 
 
 
+## Contributors
+Ali Magdi: Developed the tumor analysis pipeline for single-cell RNA sequencing, optimizing parameters for manual/automatic annotation and conducting differential expression analysis. 
 
-
+Suhaila S. Elbehairy:  Established the pipeline for normal liver tissue analysis, optimizing parameters for manual/automatic annotation and performing differential expression and trajectory analysis to assess immune cell changes over time.
 
 
 ## Reference For Further reading
